@@ -1,0 +1,3 @@
+### Debugging
+django-debug-toolbar==0.11
+django-cache-panel

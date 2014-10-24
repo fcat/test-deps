@@ -1,0 +1,24 @@
+### Pony-Forum
+Django==1.4.12
+
+# Admin
+docutils==0.11
+
+# Title and post formatting
+smartypants==1.8.3
+markdown==2.4
+bleach==1.4
+
+# User models and registration
+django-registration==0.8
+django-secure==1.0
+
+# Debugging
+-r requirements/debugging.txt
+
+# Database
+psycopg2
+South==0.8.4
+
+# Testing
+-r requirements/testing.txt
