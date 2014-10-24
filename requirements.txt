@@ -18,7 +18,7 @@ django-secure==1.0
 
 # Database
 psycopg2
-South==0.8.4
+South==1.0
 
 # Testing
 -r requirements/testing-requirements.txt
