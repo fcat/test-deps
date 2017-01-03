@@ -1,0 +1,6 @@
+---
+dependency_files:
+  -
+    path: Gemfile
+  -
+    path: Gemfile.lock
