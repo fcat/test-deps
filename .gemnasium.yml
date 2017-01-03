@@ -1,6 +1,6 @@
 ---
 dependency_files:
   -
-    path: Gemfile
+    path: dep_files/bundler/Gemfile
   -
-    path: Gemfile.lock
+    path: dep_files/bundler/Gemfile.lock
