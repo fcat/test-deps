@@ -4,3 +4,7 @@ dependency_files:
     path: dep_files/bundler/Gemfile
   -
     path: dep_files/bundler/Gemfile.lock
+  -
+    path: dep_files/composer/composer.json
+  -
+    path: dep_files/composer/composer.lock
